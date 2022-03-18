@@ -3,7 +3,7 @@ This file serves as part of a student's thesis for the master Data Science. The 
 
 # How to use
 
-The EDA files can be download, but the user needs to change some paths in order for it to run on his end. 
+The EDA files can be download, but the user needs to change some paths in order for it to run on his end. Make sure to also download the labels for the Signs of Surveillance (SoS) dataset. The file is called "labels.rar".
 
 1: Download the Signs of Surveillance (SoS) dataset from: https://signsofsurveillance.com/dataset/
 
