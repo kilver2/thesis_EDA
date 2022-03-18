@@ -7,7 +7,7 @@ The EDA files can be download, but the user needs to change some paths in order 
 
 1: Download the Signs of Surveillance (SoS) dataset from: https://signsofsurveillance.com/dataset/
 
-2: Downlaod the Traffic Sign Detection Database (TSDD) from: http://www.nlpr.ia.ac.cn/pal/trafficdata/detection.html
+2: Download the Traffic Sign Detection Database (TSDD) from: http://www.nlpr.ia.ac.cn/pal/trafficdata/detection.html
 
 3: Change all the paths in the file to download locations of the datasets
 
